@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm currently learning Ruby, and possibly Rust
+- I'm very good at python and fairly good at web development.
+- I make discord bots in my free time
 
 <!--
 **cserver45/cserver45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
