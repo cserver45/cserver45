@@ -1,7 +1,9 @@
 ### Hi there 👋
-- I'm currently learning Ruby, and possibly Rust
-- I'm very good at python and fairly good at web development.
-- I make discord bots in my free time
+- I'm currently learning Ruby, and possibly some Rust soon.
+- I'm very good at Python and fairly good at web development in general.
+- I make Discord bots in my free time (made 2 to date)
+- You can reach me via the email on the left
+- Any help is greatly apreciated on any of my projects.
 
 <!--
 **cserver45/cserver45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
